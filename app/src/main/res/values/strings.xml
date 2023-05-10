@@ -1,0 +1,9 @@
+<resources>
+    <string name="SIGNUP">SIGN UP</string>
+    <string name="app_name">CamoiApp</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="signup">Sign up</string>
+    <string name="cancel">Cancel</string>
+    <string name="email">Email</string>
+</resources>
